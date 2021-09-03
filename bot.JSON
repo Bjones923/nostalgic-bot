@@ -1,0 +1,40 @@
+{
+	
+	"feature":[
+
+	"IMAX Presentation",
+	"TV Show",
+	"film",
+	"movie",
+	"play",
+	"broadway show",
+	"circus",
+	"3-D attraction",
+	"music video",
+	"reality show",
+	"animated film",
+	"stop motion film",
+	"puppet movie",
+	"movie tour",
+	"TV movie",
+	"adventure movie",
+	"match",
+	"game",
+	"concert",
+	"party",
+	"art show",
+	"competition",
+	"event",
+	"tournament",
+	"championship",
+	"baseball game",
+	"football game",
+	"soccer game",
+	"hockey game",
+	"video game championship"
+],
+
+	"intro" :["It looks like it might be a really nice and enjoyable day","Are there any friends of yours that you want to bring for","You and your girlfriend will have an extremely fun time","There are many people and fans that are highly  anticipating","I'm going to get some money out of the bank or the ATM","I'm going to get my new eye glasses for clear vision","I'm really excited and full of joy that I'm going"],
+	"punctuation":[".","?","!"],
+	"origin": ["#intro# to see an awesome long action-packed comedy #feature##punctuation#"]
+}
