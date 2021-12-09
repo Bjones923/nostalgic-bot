@@ -4,3 +4,6 @@ This bot is going to be used as people's love in the entertainment field with mo
 
 NostalgicBot Twitter 
 https://twitter.com/NostalgicBot
+
+Example 
+I'm going to get some money out of the bank or the ATM to see an awesome long action-packed comedy video game championship?
